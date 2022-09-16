@@ -24,3 +24,7 @@ The following visualization shows the number of bike trips broken down by gender
 Citibike services are popular in busy metropolitan areas. The services are most popular among male customers, specifically male subscribers. The main hours of bike usage center around evening commute times.
 ### Suggested Visualizations 
 Given the data, I would suggest two additional visualizations for future analysis. One visualization I would make would assess starting and ending locations of trips taken between 5 and 7 pm to see how traffic flows between neighborhoods at peak hours. Another visualization I would make would show average trip duration by birth year and gender as this would determine the differences in trip length taken by different aged and gendered customers. 
+## Errors
+I am unable to attatch a link to my Tableau public account. I had to redo the challenge several times as I kept getting the error below. Therefore, I have simply included screenshots of my work (from my local Tableau) for the challenge. I can attempt to add my story to the public account once more, however, I have been unable to remedy this issue at the present time. I do not have an extract button on my end so I am unable to extract data as it is asking me to. I apologize for this inconvenience.
+![error msg](https://user-images.githubusercontent.com/106560739/190555204-a0de1d9a-fd0b-4a6f-93c2-24cce5ca6609.png)
+![error data](https://user-images.githubusercontent.com/106560739/190555222-641d4e03-80a3-4582-9aae-8da851a31455.png)
